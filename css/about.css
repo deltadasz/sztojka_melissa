@@ -1,0 +1,49 @@
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin:0;
+  padding: 0;
+  background-color: #F8F9FA;
+
+}
+
+.navbar-nav > li {
+  padding-right: 30px;
+}
+
+
+#footer {
+    position: relative;
+    height: 70px;
+    background-color: #F8F9FA;
+}
+
+.container-fluid  {
+    text-align: center;
+
+}
+
+.socials ul{
+    list-style: none;
+    display: inline;
+    text-decoration: none;
+}
+.socials li {
+       text-align: center;
+        display: inline-block;
+        margin-left: auto;
+        margin-right: auto;
+        padding-top: 20px;
+}
+
+.socials a {
+    color: #c7c7c7;
+    margin-right: 50px;
+}
+
+.socials a:hover {
+    color: #DC5A0C;
+}
